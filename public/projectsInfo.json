@@ -1,0 +1,48 @@
+ [
+  {
+    "title": "Food Expiry Tracker System",
+    "description": "The Food Expiry Tracker System is a full-stack web application that helps users track food items, monitor expiry dates, and get alerts for expiring items to reduce food waste.",
+    "images": 
+        ["https://i.ibb.co/hRF5WDMG/Screenshot-2025-06-29-104024.png",
+        "https://i.ibb.co/35Q3hC0B/Screenshot-2025-06-29-104134.png",
+        "https://i.ibb.co/KBTdPJc/Screenshot-2025-06-29-104050.png"],
+    
+    "techStack": ["React", "Tailwind CSS", "Firebase", "Express", "MongoDB","Node.js", "JWT"],
+    "liveLink": "https://food-grocaryo.web.app/",
+    "clientRepo": "https://github.com/jannatulnila/food-groceryo-client",
+    "serverRepo": "https://github.com/jannatulnila/food-groceryo-server",
+   "errors": [
+      "JWT cookie not sent due to CORS misconfiguration.",
+      "Date comparison issue when filtering expired foods.",
+      "Firebase auth state delay during route protection."
+    ]
+  },
+  {
+    "title": "GardenHub - Gardening Community",
+    "description": "this project is a community-driven hub for gardening lovers. Users can register/login, share their own tips, browse and like others' tips, explore experienced gardeners, and filter advice based on difficulty.",
+    "images": ["https://i.ibb.co/1gDQ6WR/Screenshot-2025-06-29-093438.png", "https://i.ibb.co/v6JbbFwS/Screenshot-2025-06-29-093513.png", "https://i.ibb.co/TDTWZQsz/Screenshot-2025-06-29-093616.png", "https://i.ibb.co/HDRfRTbV/Screenshot-2025-06-29-093740.png"],
+    "techStack": ["React", "Tailwind", "Firebase", "MongoDB", "DaisyUI", "Framer Motion"],
+    "liveLink": "https://teal-puffpuff-b95004.netlify.app/",
+    "clientRepo": "https://github.com/jannatulnila/garden-hub-client",
+
+    "errors": [
+      "MongoDB aggregate performance issue with large user dataset.",
+      "Like button state inconsistency after reload.",
+      "Animation breaking layout in mobile view."
+    ]
+  },
+  {
+    "title": "Your Job Discovery Hub",
+    "description": "JobTrack is an innovative, responsive job portal designed for job seekers to discover, review, and apply to jobs across multiple companies. Built using modern web technologies and Firebase authentication, the platform offers a smooth experience with secure login, job details exploration, and profile management features.",
+    "images": ["https://i.ibb.co/0jgCFpgx/Screenshot-2025-06-29-113951.png", "https://i.ibb.co/KxBzrGcL/Screenshot-2025-06-29-114037.png", "https://i.ibb.co/BHsXtJR3/Screenshot-2025-06-29-114114.png"],
+    "techStack": ["React", "Tailwind", "Stripe", "Firebase", "Express", "MongoDB"],
+    "liveLink": "https://parcel-delivery-app.web.app",
+    "clientRepo": "https://github.com/yourname/parcel-client",
+    "serverRepo": "https://github.com/yourname/parcel-server",
+    "errors": [
+      "Stripe payment redirect not returning user to success page.",
+      "Protected routes not working after Firebase logout.",
+      "Parcel coverage API not updating in real time."
+    ]
+  }
+]
