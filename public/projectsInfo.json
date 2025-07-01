@@ -8,7 +8,7 @@
         "https://i.ibb.co/KBTdPJc/Screenshot-2025-06-29-104050.png"],
     
     "techStack": ["React", "Tailwind CSS", "Firebase", "Express", "MongoDB","Node.js", "JWT"],
-    "liveLink": "https://food-grocaryo.web.app/",
+    "liveLink": "https://warm-dieffenbachia-f5c379.netlify.app/",
     "clientRepo": "https://github.com/jannatulnila/food-groceryo-client",
     "serverRepo": "https://github.com/jannatulnila/food-groceryo-server",
    "errors": [
