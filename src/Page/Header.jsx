@@ -35,7 +35,7 @@ const Header = () => {
           {/* Call to Action */}
           <div className="mt-6">
             <a
-              href="https://docs.google.com/presentation/d/1kPXanc3s-hniWnG6Gf6C_RJm5FPpkYf1gdkdVehpQes/edit?usp=sharing"
+              href="https://drive.google.com/file/d/12G321p-9iwyEUW8yBmNoR6hlpcDpqg0W/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-block px-6 py-3 bg-gradient-to-tr from-pink-500 via-purple-500 to-blue-500 text-white font-semibold rounded-lg shadow-lg hover:bg-indigo-700 transition duration-300"

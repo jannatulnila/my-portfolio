@@ -34,7 +34,7 @@ const Navbar = () => {
                 
                 <div className="hidden md:block">
                     <a
-                        href="https://docs.google.com/presentation/d/1kPXanc3s-hniWnG6Gf6C_RJm5FPpkYf1gdkdVehpQes/edit?usp=sharing"
+                        href="https://drive.google.com/file/d/12G321p-9iwyEUW8yBmNoR6hlpcDpqg0W/view?usp=sharing"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="bg-gradient-to-tr from-pink-500 via-purple-500 to-blue-500 text-white px-4 py-2 rounded-lg hover:text-white transition"
@@ -52,7 +52,7 @@ const Navbar = () => {
                     <a href='#education' className="hover:text-white">Education</a>
                     <a href='#contact' className="hover:text-white">Contact</a>
                     <a
-                        href="https://docs.google.com/presentation/d/1kPXanc3s-hniWnG6Gf6C_RJm5FPpkYf1gdkdVehpQes/edit?usp=sharing"
+                        href="https://drive.google.com/file/d/12G321p-9iwyEUW8yBmNoR6hlpcDpqg0W/view?usp=sharing"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="inline-block bg-gradient-to-tr from-pink-500 via-purple-500 to-blue-500 text-white px-4 py-2 rounded-lg hover:text-white transition"
